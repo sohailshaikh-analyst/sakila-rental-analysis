@@ -1,8 +1,8 @@
-# Sakila Rental Analysis
+  # Sakila Rental Analysis
 
 SQL joins analysis of the MySQL Sakila sample database (a DVD rental store with 16 tables), with a Power BI dashboard.
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard.png.png)
 
 ## Goal
 Find which film categories, customers and films bring the most revenue, and how revenue changes over time.
